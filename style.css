@@ -4,7 +4,7 @@ body {
   background: #00b3e6;
 }
 
-/* Tag selector to select all 'div' elements. We only have one 'div' in our HTML */
+/* Tag selector to select all 'div' elements. We only have one 'div' in HTML */
 div {
   /* Your code here! */
   width: 700px;
@@ -12,7 +12,6 @@ div {
   font-family: "Helvetica Neue";
   background: white;
   padding: 30px;
-
 }
 
 /* ID selector to select the element with id 'main-header' */
